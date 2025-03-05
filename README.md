@@ -1,2 +1,8 @@
 # StylisticStatic.io
-Stylistic Static Page
+
+## Description
+A static Diablo themed webpage
+
+## License
+All Rights Resereved
+
